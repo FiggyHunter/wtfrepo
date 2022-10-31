@@ -7,3 +7,5 @@ package wtf
 import (
 	_ "github.com/benbjohnson/ego"
 )
+
+add hammer
