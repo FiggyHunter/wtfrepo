@@ -1,4 +1,5 @@
 module github.com/benbjohnson/wtf
+moduL
 
 go 1.16
 
